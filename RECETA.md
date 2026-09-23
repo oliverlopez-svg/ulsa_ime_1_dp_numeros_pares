@@ -11,10 +11,7 @@
        FIN SI
        contador ← _5____
    FIN MIENTRAS
-5. Mostrar "Pares encontrados: " y ___errores en caso que haya___
-6. i ← 0
-7. MIENTRAS i __<totalpares____ ______ HACER
-       Mostrar pares[i]
+
        i ← __total pares____
    FIN MIENTRAS
 
